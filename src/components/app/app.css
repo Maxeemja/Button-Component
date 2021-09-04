@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic&display=swap');
+body {
+    margin: 0;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: url('../../assets/back.jpg') center center;
+}
+  
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+}
+.small-title{
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.grid{
+    display: grid;
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    padding-bottom: 60px;
+}
+.grid-item{
+    text-align: center;
+    background: #fff;
+    box-shadow: 5px 3px 10px 0 rgb(34 60 80 / 20%);
+    padding: 20px 0;
+    transition: all .3s ease;
+    border: 1px solid #d3d3d3;
+    border-width: 1px 0 0 1px;
+}   
+.grid-item:hover{
+    box-shadow: 5px 3px 12px 5px rgb(163 255 110 / 40%);
+}
+.grid-item button {
+    transition: all .2s ease;
+    padding: 8px 16px;
+    font-size: 14px;
+    text-align: center;
+    box-shadow: 0px 2px 3px rgba(51, 51, 51, 0.2);
+    border-radius: 6px;
+    border: none;
+}
+.placeholder{
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
