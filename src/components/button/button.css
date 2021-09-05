@@ -46,10 +46,10 @@ button:disabled{
     background: #3D5AFE;
 }
 .sm {
-    padding: 6px 12px;
+    padding: 6px 12px!important;
 }
 .lg {
-    padding: 11px 22px;
+    padding: 11px 22px!important;
 }
 .color-primary{
     background: #2962FF;

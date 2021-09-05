@@ -4,7 +4,7 @@ body {
     font-family: 'IBM Plex Sans Arabic', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background: url('../../assets/back.jpg') center center;
+    background: url('../../assets/3.jpg') center center;
 }
   
 code {
@@ -16,6 +16,7 @@ code {
     font-weight: 600;
     text-align: center;
     margin-bottom: 20px;
+    color: #fff;
 }
 .grid{
     display: grid;

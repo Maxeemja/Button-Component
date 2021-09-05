@@ -5,7 +5,7 @@ export default class Icons extends Component {
     render(){
         return(
             <>
-                <div className="small-title">Icons</div>
+                <div className="small-title">Icons (from Font Awesome)</div>
                 <div className="grid">
                     <div className="grid-item">
                         <div className="placeholder">&lt;Button color="primary" startIcon="fa-shopping-cart"/&gt;</div>
@@ -20,16 +20,16 @@ export default class Icons extends Component {
                         <Button color="primary" startIcon="fa-ambulance">Ambulance</Button>
                     </div>
                     <div className="grid-item">
-                        <div className="placeholder" >&lt;Button color="danger"</div>
-                        <Button color="danger" >Danger Color</Button>
+                        <div className="placeholder" >&lt;Button color="danger" endIcon="fa-shopping-cart"/&gt;</div>
+                        <Button color="danger" endIcon="fa-shopping-cart">Shopping Cart</Button>
                     </div>
                     <div className="grid-item">
-                        <div className="placeholder" >&lt;Button color="danger"</div>
-                        <Button color="danger" >Danger Color</Button>
+                        <div className="placeholder" >&lt;Button variant="outline" endIcon="fa-check"/&gt;</div>
+                        <Button variant="outline" endIcon="fa-check">Check</Button>
                     </div>
                     <div className="grid-item">
-                        <div className="placeholder" >&lt;Button color="danger"</div>
-                        <Button color="danger" >Danger Color</Button>
+                        <div className="placeholder" >&lt;Button color="danger" endIcon="fa-ambulance"/&gt;</div>
+                        <Button color="danger" endIcon="fa-ambulance">Ambulance</Button>
                     </div>
                 </div>
 
