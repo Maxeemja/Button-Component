@@ -21,15 +21,26 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-
+- [Overview](#overview)
+    - [Built With](#built-with)
+- [Features](#features)
+- [Inspiration](#inspiration)
 
 
 ## Overview
-
+This is a button component which you can test with a demo.
+![screenshot](./src/assets/demo.png)
 - 1st Dev Challenges project
-
 ### Built With
 
 - HTML
 - CSS
 - JS/React
+
+## Features
+- Reusable button component, change color, icon or/and variant.
+
+## Inspiration
+This my first tiny project from front-end category. It helped me better understood how to work with props and dynamic styles in React framework.
+
+
