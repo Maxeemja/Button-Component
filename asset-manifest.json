@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Button-Component/static/css/main.d0d7616a.chunk.css",
+    "main.js": "/Button-Component/static/js/main.ad6ab9a5.chunk.js",
+    "main.js.map": "/Button-Component/static/js/main.ad6ab9a5.chunk.js.map",
+    "runtime-main.js": "/Button-Component/static/js/runtime-main.6623194d.js",
+    "runtime-main.js.map": "/Button-Component/static/js/runtime-main.6623194d.js.map",
+    "static/js/2.d4ec1228.chunk.js": "/Button-Component/static/js/2.d4ec1228.chunk.js",
+    "static/js/2.d4ec1228.chunk.js.map": "/Button-Component/static/js/2.d4ec1228.chunk.js.map",
+    "index.html": "/Button-Component/index.html",
+    "static/css/main.d0d7616a.chunk.css.map": "/Button-Component/static/css/main.d0d7616a.chunk.css.map",
+    "static/js/2.d4ec1228.chunk.js.LICENSE.txt": "/Button-Component/static/js/2.d4ec1228.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/Button-Component/static/media/3.e75c6bab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6623194d.js",
+    "static/js/2.d4ec1228.chunk.js",
+    "static/css/main.d0d7616a.chunk.css",
+    "static/js/main.ad6ab9a5.chunk.js"
+  ]
+}
